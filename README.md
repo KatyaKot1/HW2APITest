@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/b2asu2k7lud32vpy?svg=true)](https://ci.appveyor.com/project/Katya/hw2apitest)
